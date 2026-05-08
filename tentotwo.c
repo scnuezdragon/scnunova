@@ -5,7 +5,7 @@ int main() {
     int my_two[32];
     int i = 0;
 
-    printf("2진수로 변환할 10진수 숫자를 입력하세요: ");
+    printf("Enter a decimal number to convert to binary: ");
     scanf("%d", &myten);
 
 
